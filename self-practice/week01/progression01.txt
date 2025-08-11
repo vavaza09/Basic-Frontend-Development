@@ -1,2 +1,3 @@
-ได้เรียนรู้ทบทวนการใช้งาน array การเข้าถึงข้อมูล เพิ่ม ลบ และการนำไปประยุกต์ใช้กับ loop หรือ spread opertation หรือ rest opertation
+1.ได้เรียนรู้ทบทวนการใช้งาน array การเข้าถึงข้อมูล เพิ่ม ลบ และการนำไปประยุกต์ใช้กับ loop หรือ spread opertation หรือ rest opertation
 เข้าใจว่าการเก็บ object ใน js เก็บเป็นแบบ reference หรือ แบบอ้างอิงที่ชี้ไปที่ object นั้น
+2.เข้าใจ object มากขึ้น การใช้ fromentries และ entries และ การ Desturctor
