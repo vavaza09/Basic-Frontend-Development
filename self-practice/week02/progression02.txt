@@ -1,0 +1,3 @@
+1.ได้ทบทวน OOP 
+2.รู้จักการใช้ array method คือ every และ some 
+3.การโยน error โดยใช้ throw 
