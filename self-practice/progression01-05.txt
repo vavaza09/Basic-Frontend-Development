@@ -1,0 +1,49 @@
+1. Array & Object เบสิคยันประยุกต์
+
+การเข้าถึงข้อมูลใน Array
+
+การเพิ่ม / ลบข้อมูล
+
+ใช้ร่วมกับ loop, spread operator, rest operator
+
+Object ใน JS มันเก็บแบบ reference (ชี้ไปที่ object เดิม)
+
+ใช้ Object.fromEntries(), Object.entries()
+
+การ destructuring object
+
+2. OOP & Error Handling
+
+ทบทวนการเขียนเชิง OOP (class, method อะไรพวกนี้)
+
+Array method: every(), some()
+
+การโยน error ด้วย throw (เวลาโค้ดกากแล้วอยากด่าให้ JS ฟัง)
+
+3. Function & Class
+
+เขียนฟังก์ชันแบบ arrow function
+
+ฟังก์ชันที่รับ parameter เป็น function ได้ (callback, HOF)
+
+ตัว arguments มันเป็น local variable เฉพาะในฟังก์ชัน
+
+การสร้าง Class พร้อม validation ใน constructor
+
+การสร้าง method ภายใน class
+
+4. Functional Programming Style
+
+เขียนโปรแกรมให้ functional ขึ้น โดยใช้ string method + array method
+
+ใช้ array method ในการเพิ่ม/ลบค่าใน array
+
+เข้าใจ reduce() ว่ามันรวม array ให้เหลือค่าเดียวได้ (เช่น sum, accumulate, merge)
+
+5. Module System (Import/Export)
+
+export แยกทีละตัว หรือ export แบบ list หลายๆ ตัวพร้อมกัน
+
+ใช้ default export ได้หนึ่งตัวในไฟล์
+
+ตอน import สามารถเปลี่ยนชื่อได้ด้วย (rename import/export)
